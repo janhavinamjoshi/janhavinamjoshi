@@ -1,9 +1,9 @@
-### Hi there 👋
+Hey there! 👋 Welcome to my little corner of the digital world, where I take data on adventures and turn it into engaging stories. I'm your friendly neighborhood business analyst, on a mission to make sense of numbers and weave them into captivating visual tales.
 
-Welcome to my little cave where I store my projects. I am a business analyst and I love searching for stories in large <u> boring </u> data and retell them through my compelling visualizations.
+🔭 Right now, I'm diving deep into the Twitterverse, figuring out what folks are saying about ChatGPT.
+🌱 I'm also leveling up my skills with fancy machine learning models, ready to tackle even bigger data challenges.
+📫 You can catch me hanging out on Discord @manbat#8100.
+😄 Pronouns: she/her
+⚡ Fun fact: When I'm not decoding data, I'm all about painting up a storm and tuning into some seriously interesting podcasts. Want to know what masterpiece I'm working on or the latest podcast obsession? Just ask!
 
-- 🔭 I’m currently working on Twitter sentiment analysis project to understand the public opinion around ChatGPT 
-- 🌱 I’m currently learning to work on higher level machine learning models to work through large data better
-- 📫 How to reach me: discord @manbat#8100
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love painting! I love podcasts! Ask me about my latest art interests and what I am currently listening to.
+Let's team up and add a touch of human magic to the world of data, one colorful visualization at a time! 🎨🎙️
