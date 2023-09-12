@@ -1,6 +1,6 @@
 Hey there! 👋 Welcome to my little corner of the digital world, where I take data on adventures and turn it into engaging stories. I'm your friendly neighborhood business analyst, on a mission to make sense of numbers and weave them into captivating visual tales.
 
-🔭 Right now, I'm diving deep into the Twitterverse, figuring out how folks feel about 'X'.
+🔭 Right now, I'm developing a dynamic database website with SQL, AWS and Linux (Nginx), handling unstructured web scraped data to measure and rank the economic well-being of U.S. counties at a granular level.
 
 🌱 I'm also levelling up my skills with fancy machine learning models, ready to tackle even bigger data challenges.
 
